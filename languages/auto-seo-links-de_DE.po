@@ -1,0 +1,322 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-11-01 17:16+0000\n"
+"Language: de-DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"PO-Revision-Date: 2017-11-01 17:16+0000\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"Project-Id-Version: Auto SEO Links\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Arvid <info@arvid-schmeling.de>\n"
+"Language-Team: German\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+#. Name of the plugin
+#: admin/class-auto-seo-links-admin.php:117
+#: admin/class-auto-seo-links-admin.php:118
+#: admin/class-auto-seo-links-admin.php:128
+msgid "Auto SEO Links"
+msgstr "Auto SEO Links"
+
+#: admin/class-auto-seo-links-admin.php:129
+#: admin/partials/template-parts/auto-seo-link-list.php:16
+msgid "SEO Links"
+msgstr "SEO Links"
+
+#: admin/class-auto-seo-links-admin.php:137
+#: admin/partials/template-parts/auto-seo-links-options.php:17
+msgid "Auto SEO Links - Options"
+msgstr "Auto SEO Links - Optionen"
+
+#: admin/class-auto-seo-links-admin.php:138
+msgid "Options"
+msgstr "Optionen"
+
+#: admin/partials/template-parts/auto-seo-link-create.php:36
+msgid "Add New SEO Link"
+msgstr "Neuen SEO Link hinzufügen"
+
+#: admin/partials/template-parts/auto-seo-link-create.php:47
+msgid ""
+"An error occured while creating the SEO link. Please check the red high-"
+"lighted fields."
+msgstr ""
+"Beim Erstellen des SEO Links ist ein Fehler aufgetreten. Bitte überprüfe die "
+"rot markierten Felder."
+
+#: admin/partials/template-parts/auto-seo-link-create.php:54
+msgid "The SEO link has been added successfully."
+msgstr "Der SEO Link wurde erfolgreich hinzugefügt."
+
+#: admin/partials/template-parts/auto-seo-link-create.php:72
+#: admin/partials/template-parts/auto-seo-link-list.php:114
+msgid "The SEO keyword which will be replaced with the appropriate link."
+msgstr "Das SEO Keyword, welches durch einen entsprechenden Link ersetzt wird."
+
+#: admin/partials/template-parts/auto-seo-link-create.php:73
+#: admin/partials/template-parts/auto-seo-link-list.php:115
+msgid "Word"
+msgstr "Wort"
+
+#: admin/partials/template-parts/auto-seo-link-create.php:76
+#: admin/partials/template-parts/auto-seo-link-list.php:118
+msgid ""
+"Choose the link destination type:<br /><br /><strong>Internal Post</strong> -"
+" Select a single post or page from a list of all available posts / pages in "
+"your WordPress system.<br /><br /><strong>External URL</strong> - Type in a "
+"custom URL which will be opened in a new browser tab."
+msgstr ""
+"Wähle ein Link-Ziel:<br /><br /><strong>Interner Post</strong> - Wähle einen "
+"Beitrag oder eine Seite aus einer Liste aller verfügbaren Beiträge / Seiten "
+"in deinem WordPress System.<br /><br /><strong>Externe URL</strong> - Gib "
+"eine beliebige URL ein, die in einem neuen Browser-Tab geöffnet werden wird."
+
+#: admin/partials/template-parts/auto-seo-link-create.php:77
+#: admin/partials/template-parts/auto-seo-link-list.php:119
+msgid "Type"
+msgstr "Typ"
+
+#: admin/partials/template-parts/auto-seo-link-create.php:80
+#: admin/partials/template-parts/auto-seo-link-list.php:122
+msgid ""
+"Provide a target where your link should lead to.<br /><br /><strong>Internal "
+"Link</strong> - Choose a post / page from the list.<br /><br /><strong>"
+"External URL</strong> - Type in an external URL."
+msgstr ""
+"Gib ein Ziel an, wo dein Link hinführen soll.<br /><br /><strong>Interner "
+"Link</strong> - Wähle einen Beitrag oder eine Seite aus der Liste.<br /><br "
+"/><strong>External URL</strong> - Gib eine externe URL ein."
+
+#: admin/partials/template-parts/auto-seo-link-create.php:81
+#: admin/partials/template-parts/auto-seo-link-list.php:123
+msgid "Link Target"
+msgstr "Link-Ziel"
+
+#: admin/partials/template-parts/auto-seo-link-create.php:84
+msgid ""
+"After you filled all the previous fields, hit the icon to create your SEO "
+"link entry."
+msgstr ""
+"Klicke auf das Erstellen-Icon, um deinen SEO Link Eintrag zu erstellen, "
+"nachdem du alle vorherigen Felder ausgefüllt hast."
+
+#: admin/partials/template-parts/auto-seo-link-create.php:85
+#: admin/partials/template-parts/auto-seo-link-list.php:127
+msgid "Action"
+msgstr "Aktion"
+
+#: admin/partials/template-parts/auto-seo-link-create.php:115
+#: admin/partials/template-parts/auto-seo-link-list.php:202
+msgid "Internal Post"
+msgstr "Interner Post"
+
+#: admin/partials/template-parts/auto-seo-link-create.php:116
+#: admin/partials/template-parts/auto-seo-link-list.php:203
+msgid "External URL"
+msgstr "Externe URL"
+
+#: admin/partials/template-parts/auto-seo-link-create.php:178
+#: admin/partials/template-parts/auto-seo-link-list.php:254
+msgid "No posts available"
+msgstr "Keine Posts vorhanden"
+
+#: admin/partials/template-parts/auto-seo-link-create.php:190
+#: admin/partials/template-parts/auto-seo-link-list.php:270
+msgid "http://example.com"
+msgstr "http://beispiel.de"
+
+#: admin/partials/template-parts/auto-seo-link-create.php:201
+msgid "Create this entry"
+msgstr "Erstelle diesen Eintrag"
+
+#: admin/partials/template-parts/auto-seo-link-list.php:62
+msgid "Search SEO Link"
+msgstr "SEO Link suchen"
+
+#: admin/partials/template-parts/auto-seo-link-list.php:63
+msgid "Search"
+msgstr "Suchen"
+
+#: admin/partials/template-parts/auto-seo-link-list.php:75
+msgid ""
+"An error occured while updating the SEO link. Please check the red high-"
+"lighted fields."
+msgstr ""
+"Beim Aktualisieren des SEO Links ist ein Fehler aufgetreten. Bitte überprüfe "
+"die rot markierten Felder."
+
+#: admin/partials/template-parts/auto-seo-link-list.php:82
+msgid "The SEO link has been updated successfully."
+msgstr "Der SEO Link wurde erfolgreich aktualisiert."
+
+#: admin/partials/template-parts/auto-seo-link-list.php:89
+msgid "An error occured while deleting the SEO link. Please try again later."
+msgstr ""
+"Beim Löschen des SEO Links ist ein Fehler aufgetreten. Bitte versuche es "
+"später erneut."
+
+#: admin/partials/template-parts/auto-seo-link-list.php:96
+msgid "The SEO link has been deleted successfully."
+msgstr "Der SEO Link wurde erfolgreich gelöscht."
+
+#: admin/partials/template-parts/auto-seo-link-list.php:126
+msgid ""
+"After you changed all the previous fields as desired, hit the refresh icon "
+"to update your SEO link entry, or hit the trash icon to delete the entry."
+msgstr ""
+"Klicke auf das Aktualisieren-Icon nachdem du alle Felder nach Belieben "
+"geändert hast, um deinen SEO Link zu aktualisieren. Oder klicke auf das "
+"Mülleimer-Icon, um den Eintrag zu löschen."
+
+#: admin/partials/template-parts/auto-seo-link-list.php:130
+msgid ""
+"Calculates an estimated number of how often this SEO keyword will be turned "
+"into a link on your whole WordPress website."
+msgstr ""
+"Ermittelt die geschätzte Anzahl, wie oft dieses SEO Keyword auf deiner "
+"gesamten WordPress Seite in einen Link umgewandelt wird."
+
+#: admin/partials/template-parts/auto-seo-link-list.php:131
+msgid "Generated"
+msgstr "Generiert"
+
+#: admin/partials/template-parts/auto-seo-link-list.php:282
+msgid "Update this entry"
+msgstr "Diesen Eintrag aktualisieren"
+
+#: admin/partials/template-parts/auto-seo-link-list.php:287
+msgid "Do you really want delete this entry?"
+msgstr "Möchtest Du diesen Eintrag wirklich löschen?"
+
+#: admin/partials/template-parts/auto-seo-link-list.php:290
+msgid "Yes, delete this entry!"
+msgstr "Ja, lösche diesen Eintrag!"
+
+#: admin/partials/template-parts/auto-seo-link-list.php:295
+msgid "Delete this entry?"
+msgstr "Diesen Eintrag löschen?"
+
+#: admin/partials/template-parts/auto-seo-link-list.php:319
+msgid "There're no entries, yet. Please submit one!"
+msgstr "Es sind noch keine Einträge vorhanden. Bitte erstelle einen!"
+
+#: admin/partials/template-parts/auto-seo-links-options.php:21
+msgid ""
+"An error occured while updating the options. Please check the red high-"
+"lighted fields."
+msgstr ""
+"Beim Aktualisieren der Optionen ist ein Fehler aufgetreten. Bitte überprüfe "
+"die rot markierten Felder."
+
+#: admin/partials/template-parts/auto-seo-links-options.php:25
+msgid "The options has been saved successfully."
+msgstr "Die Optionen wurden erfolgreich gesichert."
+
+#: admin/partials/template-parts/auto-seo-links-options.php:41
+msgid "Exclude Posts / Pages"
+msgstr "Beiträge / Seiten ausschließen"
+
+#: admin/partials/template-parts/auto-seo-links-options.php:42
+msgid "Choose posts / pages where you don't want your SEO links to show up."
+msgstr ""
+"Wähle Beiträge / Seiten aus, auf denen keine SEO Links erscheinen sollen."
+
+#: admin/partials/template-parts/auto-seo-links-options.php:100
+msgid "Maximum SEO Links"
+msgstr "SEO Link Limit"
+
+#: admin/partials/template-parts/auto-seo-links-options.php:101
+msgid ""
+"Limit the number of SEO links on one single post / page (&nbsp;0&nbsp;=&nbsp;"
+"unlimited&nbsp;)."
+msgstr ""
+"Begrenze die Anzahl an SEO Links, die auf einer einzelnen Seite angezeigt "
+"werden sollen (&nbsp;0&nbsp;=&nbsp;unlimitiert&nbsp;)."
+
+#: admin/partials/template-parts/auto-seo-links-options.php:120
+msgid "Maximum Internal Linkings"
+msgstr "Internes Link Limit"
+
+#: admin/partials/template-parts/auto-seo-links-options.php:121
+msgid ""
+"Limit the number of SEO links that target the same internal destination "
+"(&nbsp;0&nbsp;=&nbsp;unlimited&nbsp;)."
+msgstr ""
+"Begrenze die Anzahl an SEO Links auf einer einzelnen Seite, die auf das "
+"selbe interne Ziel verweisen (&nbsp;0&nbsp;=&nbsp;unlimitiert&nbsp;)."
+
+#: admin/partials/template-parts/auto-seo-links-options.php:142
+msgid "Tidy Up After Plugin Deactivation"
+msgstr "Nach Plugin-Deaktivierung aufräumen"
+
+#: admin/partials/template-parts/auto-seo-links-options.php:144
+msgid "Tidy Up After Plugin Deletion"
+msgstr "Aufräumen nach Löschung des Plugins"
+
+#: admin/partials/template-parts/auto-seo-links-options.php:148
+msgid ""
+"Choose if you want to clear the database from plugin data once the plugin "
+"got deactivated.<br /><strong style=\"color: #ff0000; font-style: italic;\">"
+"Once deleted, the data will be lost!</strong>"
+msgstr ""
+"Wähle, ob du die Datenbank von Plugin-Daten bereinigen möchtest sobald das "
+"Plugin deaktiviert wurde.<br /><strong style=\"color: #ff0000; font-style: "
+"italic;\">Einmal gelöscht, sind die Plugin-Daten verloren</strong>"
+
+#: admin/partials/template-parts/auto-seo-links-options.php:150
+msgid ""
+"Choose if you want to clear the database from plugin data once the plugin "
+"got deleted.<br /><strong style=\"color: #ff0000; font-style: italic;\">Once "
+"deleted, the data will be lost!</strong>"
+msgstr ""
+"Wähle aus, ob Du die Datenbank von Plugin-Daten bereinigen möchtest, nachdem "
+"das Plugin gelöscht wurde.<br /><strong style=\"color: #ff0000; font-style: "
+"italic;\">Einmal gelöscht, sind die Daten verloren!</strong>"
+
+#: admin/partials/template-parts/auto-seo-links-options.php:159
+msgid ""
+"<strong>Internal SEO links</strong> - Delete all SEO link entries with an "
+"internal link type."
+msgstr ""
+"<strong>Interne SEO Links</strong> - Lösche alle SEO Link Einträge mit einem "
+"internen Link-Ziel."
+
+#: admin/partials/template-parts/auto-seo-links-options.php:166
+msgid ""
+"<strong>External SEO links</strong> - Delete all SEO link entries with an "
+"external link type."
+msgstr ""
+"<strong>Externe SEO Links</strong> - Lösche alle SEO Link Einträge mit einem "
+"externen Link-Ziel."
+
+#: admin/partials/template-parts/auto-seo-links-options.php:173
+msgid "<strong>Plugin Settings</strong> - Delete all option configuration."
+msgstr ""
+"<strong>Plugin Einstellungen</strong> - Lösche alle gespeicherten Optionen."
+
+#: admin/partials/template-parts/auto-seo-links-options.php:180
+msgid "Save changes"
+msgstr "Änderungen übernehmen"
+
+#. Description of the plugin
+msgid ""
+"Filters WordPress content for certain keywords and replace them with SEO "
+"links."
+msgstr ""
+"Filtert WordPress Inhalte nach bestimmten Schlüsselworten und ersetzt sie "
+"mit SEO Links."
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://unflow.io"
+msgstr "http://unflow.io"
+
+#. Author of the plugin
+msgid "Arvid Schmeling"
+msgstr "Arvid Schmeling"
+
+#. Author URI of the plugin
+msgid "http://arvid-schmeling.de"
+msgstr "http://arvid-schmeling.de"
